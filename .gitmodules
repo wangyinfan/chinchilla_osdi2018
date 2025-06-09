@@ -30,10 +30,10 @@
 	url = https://github.com/CMUAbstract/libmspprintf.git
 [submodule "ext/libmspmath"]
 	path = ext/libmspmath
-	url = git@github.com:CMUAbstract/libmspmath.git
+	url = https://github.com/CMUAbstract/libmspmath.git
 [submodule "ext/alpaca"]
 	path = ext/chinchilla
-	url = git@github.com:CMUAbstract/chinchilla.git
+	url = https://github.com/CMUAbstract/chinchilla.git
 [submodule "ext/ratchet"]
 	path = ext/ratchet
-	url = git@github.com:CMUAbstract/msp430ratchet.git
+	url = https://github.com/CMUAbstract/msp430ratchet.git
