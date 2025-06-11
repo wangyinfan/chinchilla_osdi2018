@@ -37,3 +37,6 @@
 [submodule "ext/ratchet"]
 	path = ext/ratchet
 	url = https://github.com/CMUAbstract/msp430ratchet.git
+[submodule "ext/chinchilla"]
+	path = ext/chinchilla
+	url = https://github.com/CMUAbstract/chinchilla.git
